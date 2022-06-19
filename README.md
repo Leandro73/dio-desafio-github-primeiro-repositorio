@@ -1,4 +1,4 @@
-# Desafio do Projeto spbre Git/Github da DIO
+# Desafio do Projeto sobre Git/Github da DIO
 Repositório criado para o Desafio de projeto git-github
 
 ## Links Úteis
